@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>自己紹介 |片山 湊南</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- スライドショー -->
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+      <img src="https://vignette.wikia.nocookie.net/jurassicworldevolution/images/b/b9/TREX_topk.jpg/revision/latest/scale-to-width-down/2000?cb=20200314010503&path-prefix=ja" class="slide-img">
+    </div>
+    <div class="mySlides fade">
+      <img src="https://th.bing.com/th/id/R.82e27cc1b562180f5c04cdedb40311ff?rik=WpYuMaqXxBJT%2bw&riu=http%3a%2f%2fwww.kyouryu.info%2fimg%2fdinosaur%2fvelociraptor_3_l.jpg&ehk=1fAIM6zxUkSvgGa2Qe1ZzqmqyvrzGgDY1%2b6FOWkAscg%3d&risl=&pid=ImgRaw&r=0" class="slide-img">
+    </div>
+    <div class="mySlides fade">
+      <img src="https://tse3.mm.bing.net/th/id/OIP.MPDFs8E6eEudJ79WkGK8KwHaId?rs=1&pid=ImgDetMain&o=7&rm=3" class="slide-img">
+    </div>
+  </div>
+
+  <!-- コンテンツ部分 -->
+  <div class="container">
+    <div class="content">
+      <img src="" alt="プロフィール写真" class="profile">
+      <h1>片山湊南</h1>
+      <p>
+        こんにちは！カフェでおしゃれなデザインを目指しているそなです。<br>
+        カフェ巡りが好きで、リラックスできる空間でのんびりするのが大好きです。<br>
+        デザインもあたたかくて居心地の良いものを作っています☕️🍰
+      </p>
+
+      <div class="links">
+        <a href="https://x.com/youraccount" target="_blank">X（旧Twitter）</a>
+        <a href="https://instagram.com/youraccount" target="_blank">Instagram</a>
+        <a href="https://github.com/youraccount" target="_blank">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    © 2025 Sakura Design
+  </footer>
+
+</body>
+</html>
